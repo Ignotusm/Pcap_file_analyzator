@@ -1,0 +1,16 @@
+0 Echo_Reply
+3 Destination_Unreachable
+4 Source_Quench
+5 Redirect
+8 Echo
+9 Router_Advertisement
+10 Router_Selection
+11 Time_Exceeded
+12 Parameter_Problem
+13 Timestamp
+14 Timestamp_Reply
+15 Information_Request
+16 Information_Reply
+17 Address_Mask_Request
+18 Address_Mask_Reply
+30 Traceroute

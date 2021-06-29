@@ -1,0 +1,2 @@
+0 Time_to_Live_exceeded_in_Transit
+1 Fragment_Reassembly_Time_Exceeded

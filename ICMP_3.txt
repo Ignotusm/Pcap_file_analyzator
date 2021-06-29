@@ -1,0 +1,14 @@
+0 Net_Unreachable
+1 Host_Unreachable
+2 Protocol_Unreachable
+3 Port_Unreachable
+4 Fragmentation_Needed_&_DF_Set
+5 Source_Route_Failed
+6 Destination_Network_Unknown
+7 Destination_Host_Unknown
+8 Source_Host_Isolated
+9 Network_Administratively_Prohibited
+10 Host_Administratively_Prohibited
+11 Network_Unreachable_for_TOS
+12 Host_Unreachale_for_TOS
+13 Communication_Administratively_Prohibited

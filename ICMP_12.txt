@@ -1,0 +1,3 @@
+0 Pointer_indicates_the_error
+1 Missing_a_Required_Option
+2 Bad_Length

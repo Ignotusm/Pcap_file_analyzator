@@ -1,0 +1,22 @@
+#Ethertypes
+2048 IPv4
+2054 ARP
+2269 IPv6
+#LSAPs
+66 STP
+170 SNAP
+224 IPX
+#IP Protocol numbers
+1 ICMP
+6 TCP
+17 UDP
+#TCP ports
+20 FTP_data
+21 FTP_control
+22 SSH
+23 TELNET
+80 HTTP
+443 HTTPS
+#UDP ports
+53 DNS
+69 TFTP
